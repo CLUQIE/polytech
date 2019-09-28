@@ -1,0 +1,39 @@
+:root {
+  --header_background: #5022A4;
+  --button_primary_background: #5022A4;
+}
+.event-main{
+  background-color: #FFFFFF;
+  width: 96%;
+  margin-left: 2%;
+  margin-right: 2%;
+
+  position: relative;
+  border-radius: 10px;
+  box-shadow: 0 3px 6px #ACACAC29;
+  margin-bottom: 20px;
+}
+.event-main-into{
+  padding: 5px;
+}
+.layout{
+
+}
+.select{
+
+}
+.eventInfo{
+  background-color: #FFFFFF;
+  width: 92%;
+  margin-left: 3%;
+  margin-right: 3%;
+  position: relative;
+  border-radius: 10px;
+  box-shadow: 0 3px 6px #ACACAC29;
+  margin-top: 20px;
+  padding: 2%;
+}
+.eventPhoto{
+  background-color: black;
+  height: 250px;
+}
